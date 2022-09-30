@@ -3,7 +3,7 @@ Vesta is strong, hard working, and great in a team situation. While new to the p
 Contact them for more information about potential job offers. Currently Vesta is a paired unit with Flightless Augury. 
 
 ## Skills:
-- License Level 2 - Genghis Frame
+- License Level 3 - Genghis Frame
 - Equipped with a Flamethrower 
 - Can do Shadow Puppets
 - Trained in sword fighting outside of the mech
