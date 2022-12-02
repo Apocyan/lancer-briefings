@@ -94,7 +94,7 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "003",
+          "slug": "005",
           "name": "Handshakes and Surveys",
           "status": "start"
         },
