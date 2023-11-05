@@ -94,7 +94,7 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "003",
+          "slug": "005",
           "name": "Handshakes and Surveys",
           "status": "start"
         },
@@ -118,11 +118,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "N/A",
-        "year": "5017u",
-        "system": "The Long Rim",
-        "gate": "Rao Co Station",
-        "ring": "Cascade-Line",
+        "planet": "Cadus O1",
+        "year": "5016u",
+        "system": "Kashmir",
+        "gate": "Broad Peak Station",
+        "ring": "Karakoram-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Recon and Skirmish",
